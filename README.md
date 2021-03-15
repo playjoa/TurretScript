@@ -1,2 +1,2 @@
 # TurretScript
-Turret that finds target, aims and shoots at it (Unity)
+Turret that finds targets, chooses closest one, aims and shoots at it until dead or is out of range (Unity)
